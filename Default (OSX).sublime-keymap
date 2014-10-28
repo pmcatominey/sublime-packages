@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+alt+]"], "command": "reindent" },
+	{ "keys": ["end"], "command": "move_to", "args": {"to": "eol"} },
+	{ "keys": ["home"], "command": "move_to", "args": {"to": "bol"} }
+]
