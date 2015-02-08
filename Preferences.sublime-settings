@@ -5,6 +5,6 @@
 	[
 		"Vintage"
 	],
-	"theme": "predawn.sublime-theme",
-	"tabs_small": true
+	"tabs_small": true,
+	"theme": "predawn.sublime-theme"
 }
