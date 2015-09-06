@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"API Blueprint",
 		"Babel",
 		"Base16 Color Schemes",
 		"Better CoffeeScript",

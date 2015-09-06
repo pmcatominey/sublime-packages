@@ -11,7 +11,11 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"rulers": [80, 120],
 	"material_theme_small_tab": true,
+	"rulers":
+	[
+		80,
+		120
+	],
 	"theme": "Material-Theme-Darker.sublime-theme"
 }
