@@ -1,7 +1,7 @@
 {
 	"color_scheme": "Packages/Base16 Color Schemes/base16-ocean.dark.tmTheme",
 	"font_face": "Source Code Pro",
-	"font_size": 14,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -11,7 +11,11 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"rulers": [80, 120],
 	"material_theme_small_tab": true,
+	"rulers":
+	[
+		80,
+		120
+	],
 	"theme": "Material-Theme-Darker.sublime-theme"
 }

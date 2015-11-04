@@ -13,4 +13,7 @@
 	],
 	"autocomplete_closures": true,
 	"complete_builtins": true,
+	"env": {
+		"GOPATH": "$HOME/Code/go"	
+	},
 }
