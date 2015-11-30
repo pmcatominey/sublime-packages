@@ -1,23 +1,24 @@
 {
-	// theme
-	"theme": "Material-Theme-Darker.sublime-theme",
 	"bold_folder_labels": true,
+	"caret_style": "wide",
+	"color_scheme": "Packages/Base16 Color Schemes/base16-ocean.dark.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"indent_guide_options":
 	[
 		"draw_normal",
 		"draw_active"
 	],
-	"caret_style": "wide",
-	"highlight_line": true,
 	"material_theme_small_tab": true,
 	"rulers":
 	[
 		80,
 		120
 	],
-
-	// text
-	"color_scheme": "Packages/Base16 Color Schemes/base16-ocean.dark.tmTheme",
-	"font_face": "Source Code Pro",
-	"font_size": 12
+	"theme": "Material-Theme.sublime-theme"
 }
